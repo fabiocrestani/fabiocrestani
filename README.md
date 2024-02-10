@@ -1,5 +1,5 @@
 <h1>Fabio Crestani</h1>
-<h3>System test engineer working in Germany</h3>
+<h3>Lead of embedded software development and test automation team</h3>
 
 <p align="left">
 I have a background in embedded systems development (hardware and software). Low level stuff 😎️
@@ -11,17 +11,13 @@ I lead a small team developing tests using Vector CANoe and Vector vTESTstudio, 
 I also created a Python test framework from scratch.
 </p>
 
-<p align="left">
-Never afraid of learning something new.
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiocrestani" alt="fabiocrestani" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fabiocrestani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabiocrestani" height="30" width="40" /></a>
+<!--<a href="https://dev.to/fabiocrestani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fabiocrestani" height="30" width="40" /></a>-->
 <a href="https://linkedin.com/in/crestani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crestani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fabiocrestani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fabiocrestani" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/fabiocrestani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fabiocrestani" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +25,9 @@ Never afraid of learning something new.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiocrestani&show_icons=true&locale=en&layout=compact" alt="fabiocrestani" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiocrestani&show_icons=true&locale=en" alt="fabiocrestani" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiocrestani&" alt="fabiocrestani" /></p>
 
